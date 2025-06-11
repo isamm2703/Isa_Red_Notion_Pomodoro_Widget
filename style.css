@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Sans serif', ;
-  background-color: #FFFFFF; color: #FFFFFF
+  background-color: #FFFFFF; color: #EDECE9
 }
 
 #root {
@@ -49,7 +49,7 @@ button:focus {
 #time-left {
   font-size: 70px;
   text-align: center;
-  background-color: rgb(255,255,255);
+  background-color: rgb(100, 13, 20);
   padding: 20px;
   border-radius: 20px;
   box-shadow: 3px 3px rgb(56, 4, 14) inset;
@@ -71,7 +71,7 @@ button:focus {
   border-radius: 10px;
   height: 40px;
   flex: 2;
-  box-shadow: 3px 3px rgb() inset;
+  box-shadow: 3px 3px rgb(56, 4, 14) inset;
 }
 
 #timer-ssr {

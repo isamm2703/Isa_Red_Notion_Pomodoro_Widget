@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Sans serif', ;
-  background-color: #FFFFFF; color: #FFFFFF
+  background-color: #FFFFFF; color: #38040E
 }
 
 #root {
@@ -37,7 +37,7 @@ button:focus {
 /* Clock Body */
 
 .clock-container {
-  background-color: rgb(100,13,20); 
+  background-color: rgb(128,14,19); 
   width: 350px;
   border-radius: 20px;
   padding: 30px;

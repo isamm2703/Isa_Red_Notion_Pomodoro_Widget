@@ -16,22 +16,22 @@ body {
 
 button,
 button:active {
-  background-color: rgb (209, 196, 233);
+  background-color: rgb (56, 4, 14);
   border: none;
   width: 42px;
   height: 40px;
   border-radius: 100%;
   text-align: center;
-  box-shadow: 0.2em 0.2em rgb(209, 196, 233); 
-  -webkit-box-shadow: 0.2em 0.2em rgb(209, 196, 233); 
-  -moz-box-shadow: 0.2em 0.2em rgb(209, 196, 233);
+  box-shadow: 0.2em 0.2em rgb(56, 4, 14); 
+  -webkit-box-shadow: 0.2em 0.2em rgb(56, 4, 14); 
+  -moz-box-shadow: 0.2em 0.2em rgb(56, 4, 14);
 }
 
 button:focus {
   translate: 0.2em 0.2em;
-  box-shadow: 0.2em 0.2em rgb(209, 196, 233) inset;
-  -webkit-box-shadow: 0.2em 0.2em rgb(209, 196, 233) inset;
-  -moz-box-shadow: 0.2em 0.2em rgb(209, 196, 233) inset;
+  box-shadow: 0.2em 0.2em rgb(56, 4, 14) inset;
+  -webkit-box-shadow: 0.2em 0.2em rgb(56, 4, 14) inset;
+  -moz-box-shadow: 0.2em 0.2em rgb(56, 4, 14) inset;
 }
 
 /* Clock Body */

@@ -52,7 +52,7 @@ button:focus {
   background-color: rgb(255,255,255);
   padding: 20px;
   border-radius: 20px;
-  box-shadow: 3px 3px rgb(209, 196, 233) inset;
+  box-shadow: 3px 3px rgb(56, 4, 14) inset;
 }
 
 #display-controls {
@@ -67,7 +67,7 @@ button:focus {
   font-size: 27px; color: #EDECE9;
   text-align: center;
   padding-top: 10px;
-  background-color: rgb(209, 196, 233);
+  background-color: rgb(100, 13, 20);
   border-radius: 10px;
   height: 40px;
   flex: 2;
